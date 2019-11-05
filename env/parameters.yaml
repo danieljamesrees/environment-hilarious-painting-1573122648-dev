@@ -1,0 +1,10 @@
+adminUser:
+  password: local:hilarious-painting-1573122648/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: d_j_rees@hotmail.com
+  token: local:hilarious-painting-1573122648/pipelineUser:token
+  username: danieljamesrees
+prow:
+  hmacToken: local:hilarious-painting-1573122648/prow:hmacToken
