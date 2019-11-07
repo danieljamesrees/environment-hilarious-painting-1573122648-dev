@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: danieljamesrees
+  repo: jenkinsx-demo-hodge
+  url: https://github.com/danieljamesrees/jenkinsx-demo-hodge.git
+  version: ""
+  versionURL: ""

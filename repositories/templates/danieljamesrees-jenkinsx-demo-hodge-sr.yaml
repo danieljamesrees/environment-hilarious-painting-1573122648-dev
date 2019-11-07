@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: danieljamesrees
+    provider: github
+    repository: jenkinsx-demo-hodge
+  name: danieljamesrees-jenkinsx-demo-hodge
+spec:
+  description: Imported application for danieljamesrees/jenkinsx-demo-hodge
+  httpCloneURL: https://github.com/danieljamesrees/jenkinsx-demo-hodge.git
+  org: danieljamesrees
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: jenkinsx-demo-hodge
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/danieljamesrees/jenkinsx-demo-hodge.git
